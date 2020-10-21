@@ -1,0 +1,11 @@
+# cs325hw3
+Files for HW3 for CS 325
+
+All files are on the engineering flip servers in sundbebr's folders on flip3. 
+To run the files there, you need to go to that cs325hw3 folder. Then:
+
+To run shopping.py on the engineering flip servers, run the command line "python3 shopping.py"
+
+Running the file will print the results to the terminal, but if you want to see the results file 
+that the program creates on the engineering flip servers, run the command line "nano results.txt"
+
